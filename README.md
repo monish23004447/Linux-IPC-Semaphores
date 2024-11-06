@@ -19,6 +19,7 @@ Write the C Program using Linux Process API - Sempahores
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+```
 /*
  * sem.c  - demonstrates a basic producer-consumer
  *                            implementation.              */
@@ -102,6 +103,7 @@ if(NUM_LOOPS>=10)    {
 	    break;
     }
     return 0;}
+```
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
 
